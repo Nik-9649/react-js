@@ -5,7 +5,7 @@ const App = () => {
   const buttonText = { text: "Submit" };
   return (
     <div>
-      <label for="name" className="label">
+      <label htmlFor="name" className="label">
         enter e-mail
       </label>
       <input id="name" type="text" />
