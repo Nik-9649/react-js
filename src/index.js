@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const App = () => {
-  const buttonText = "Click me!";
+  const buttonText = "Submit";
   return (
     <div>
       <label for="name" className="label">
